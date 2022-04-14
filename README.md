@@ -40,7 +40,7 @@ the open-source community.
 * GPU acceleration for core 3D operations
 * Available in C++ and Python
 
-For more, please visit the [Open3D documentation](http://www.open3d.org/docs).
+For more, please visit the [Open3D documentation](http://www.open3d.org/docs/release/open3d_ml.html).
 
 ## Python quick start
 
